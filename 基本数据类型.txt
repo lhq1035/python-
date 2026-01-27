@@ -1,0 +1,13 @@
+Python3 中常见的数据类型有：
+Number（数字）--> int、float、bool、complex（复数）, / 返回一个浮点数，// 返回一个整数。
+String（字符串）-->变量[头下标:尾下标], 加号 + 是字符串的连接符， 星号 * 表示复制当前字符串
+bool（布尔类型）
+List（列表）
+Tuple（元组）
+Set（集合）-->  print(a - b)  # a 和 b 的差集 ，print(a | b)  # a 和 b 的并集，print(a & b)  # a 和 b 的交集，print(a ^ b)   # a 和 b 中不同时存在的元素
+Dictionary（字典）
+
+Python3 的六个标准数据类型中：
+不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；
+可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。
+此外还有一些高级的数据类型，如: 字节数组类型(bytes)。
